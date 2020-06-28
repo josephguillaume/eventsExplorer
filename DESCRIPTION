@@ -1,0 +1,12 @@
+Package: eventsExplorer
+Type: Package
+Title: Define discrete events in time series
+Version: 0.9-26
+Author: Felix Andrews
+Maintainer: Joseph Guillaume <josephguillaume@gmail.com>
+Description: A graphical user interface for defining discrete events in (hydrological) time series, split out from https://github.com/josephguillaume/hydromad
+License: GPL >=2
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    hydromad, playwith
